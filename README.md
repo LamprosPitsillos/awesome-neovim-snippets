@@ -14,7 +14,7 @@
 
 ## Contents
 
-- [Lua](lua/open_file_with_xdg_open.lua) 
+- [Lua](#lua) 
 - [Wishlist](#wishlist)
 - [UI](#ui)
 - [Plugin](#plugin)
