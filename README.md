@@ -14,6 +14,7 @@
 
 ## Contents
 
+- [Lua](lua/open_file_with_xdg_open.lua) 
 - [Wishlist](#wishlist)
 - [UI](#ui)
 - [Plugin](#plugin)
@@ -79,6 +80,8 @@
   - [Boilerplate](#boilerplate)
 - [Vim](#vim)
 - [Resource](#resource)
+
+## Lua
 
 ## Wishlist
 
