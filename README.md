@@ -26,8 +26,15 @@
 
 ## Filetype
 
-- Man
-    - [Page closer](ftplugin/man/page_closer.lua) - Close open man pages using `q` , if it's the last , close neovim. 
+To use these snippets go to your neovim config directory,`cd` in to
+the `ftplugin` folder (create one if it doesn't exist) and then
+create a folder with the name of the filetype you are going to add a Snippet
+and then just copy it in.
+
+For more info `:h ftplugin`
+
+### Man
+- [Page closer](ftplugin/man/page_closer.lua) - Close open man pages using `q` , if it's the last , close neovim. 
 
 ## Plugins
 
